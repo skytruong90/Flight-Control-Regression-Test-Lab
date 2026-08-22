@@ -1,0 +1,1 @@
+{"metrics":{"final_error":0.0024603218499759105,"overshoot":0.0,"rise_time_s":1.6,"control_effort":1.121226181041977},"tolerances":{"final_error":{"abs":0.01,"rel":0.1},"overshoot":{"abs":0.01,"rel":0.0},"rise_time_s":{"abs":0.15,"rel":0.05},"control_effort":{"abs":0.08,"rel":0.05}}}
